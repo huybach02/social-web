@@ -33,6 +33,11 @@
         width: 40px;
         margin: 1px 37px;
     }
+    .setting-menu-height {
+        top: 6%;
+        right: 10px;
+        z-index: 20;
+    }
 }
 
 /* Mobile */
@@ -74,5 +79,10 @@
     .nav-left ul li img {
         width: 31px;
         margin: 0 10px;
+    }
+    .setting-menu-height {
+        top: 7%;
+        right: 5px;
+        z-index: 20;
     }
 }
